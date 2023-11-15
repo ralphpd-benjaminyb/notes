@@ -1,2 +1,2 @@
-# notes-key
+# notes
 research log
