@@ -56,3 +56,9 @@ One ofthe most important aspects of programming is problem-solving. When faced w
 
 # 2023-11-30
 - "Programming wisdom for today: Always comment your code. It's not only helpful for yourself when you revisit the code in the future, but also for others who may need to read or work on it. Clear and concise comments can greatly improve the readability and maintainability of your code."
+
+# 2023-12-01
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use techniques such as the MoSCoW method (Must have, Should have and Could have) to categorize your task and prioritize them accordingly. Must have tasks should be completed first since they are essential to your goal, while Should haves and Should not hares can be worked on at a later stage. 
+ .Next, planning ahead is crucial. Before starting a new project or a task, take some time to plan out your approach. Write down a list of steps you need to take to complete the task or project and break them down into smaller, manageable chunks.This will make it easier for youto stay focused and organized throughout the process. Planning ahead will also help to avoid last-minute panic and stress, which can often lead to poor coding decisions.
