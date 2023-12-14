@@ -108,3 +108,13 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, determine which tasks are most important and which can be completed later. Then, break down each task into smaller, manageable steps. By organizing your code and your workflow, you will find it easier to understand and maintain your project.
 
 Remember to take breaks and avoid multitasking, as this can lead to distractions and decreased efficiency. Use version control, like Git, to keep track of your changes and collaborate with others. Always keep your coding environment up-to-date and use code editors and IDEs that suit your needs. Learn from the experiences of others and don't be afraid to ask for help when you need it. Finally, always keep learning and updating your skills, because the world of programming is constantly changing.
+
+# 2023-12-14
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Learn new programming Languages: Explore different programming langauges, such as Python, JavaScript, or Ruby, to expand your skill set and understand various approaches to problem-solving.
+2. Stay up to date with technology: Follow industry news and trends to keep up with new developments in programming, hardware, and software. This will help ensure that your skills are relevant and in-demand. 
+3. Practice coding challenges: Solve coding problems on websites like LeetCode, HackerRank, Project Euler, etc. to improve your problem solving and coding skills. These challenges will also help prepare you for technical interviews.  
+4. Attend workshops and conferences: Participate in local programming workshops, meetups, hackathons, conferences, ect. To network with other developers, learn about new tools and technologies, share knowledge, get feedback, improve soft skills, develop leadership skills and grow professionally.   
+5. Open source contribution: Contribute to open source projects to gain experience, expand knowledge and improve coding skill. It'll also look great on your resume and help build your portfolio.    
+6. Code review: Review the code of others and have them review yours. By doing so, you can learn from each other'
