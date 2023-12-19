@@ -134,3 +134,9 @@ Finally, stay organize. A clean and well-organized codebase can make your life m
 
 # 2023-12-18
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, making sure to allow enough time so that you don't feel rushed or overwhelmed. Finally, use task management tools and programming languages to stay organised and track your progress. Remember to take breaks and keep your workspace clean, as this will also contribute to your overall productivity. By following these tips, you will be able to better manage your workload and achieve your goals more effectively.
+
+# 2023-12-19
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help ensure you have enough time to complete everything. 
+ 3. Finally, stay organised and use tools and techniques that help keep your code and project clean and tidy. Use version control systems like Git to track your changes and collaborate with others. Keep your project organized with well-named files and folders, as well as comments and documentation. These practices will make it easier for you and others to work on your projects and will also help maintain a high-quality product.
