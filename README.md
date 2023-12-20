@@ -140,3 +140,6 @@ Finally, stay organize. A clean and well-organized codebase can make your life m
 
 Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help ensure you have enough time to complete everything. 
  3. Finally, stay organised and use tools and techniques that help keep your code and project clean and tidy. Use version control systems like Git to track your changes and collaborate with others. Keep your project organized with well-named files and folders, as well as comments and documentation. These practices will make it easier for you and others to work on your projects and will also help maintain a high-quality product.
+
+# 2023-12-20
+- "Keep it simple, stupid!"
