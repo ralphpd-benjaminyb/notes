@@ -240,3 +240,6 @@ This quote emphasizes that over-concern with optimizing code before it's necessa
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and make progress more quickly. Use a task management tool, such as Trello or Asana, to help keep track of your priorities. 
  2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out the steps you need to take and the resources you will need. Creating a detailed plan will ensure you have all the information you require to complete the task successfully and avoid any potential roadblocks.  
 3. Stay organized: As a programmer, maintaining a clean and organized workspace is vital for success. Organizing and naming your files, folders, libraries, etc. in a logical and consistent manner will make it easier to find and use the code you create. Additionally, using version control systems, like Git, can help ensure your code is always up-to-date and easy to track.
+
+# 2024-01-11
+- "Keep it simple, stupid!"
