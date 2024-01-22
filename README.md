@@ -290,3 +290,10 @@ First, prioritize your tasks. When you are working on a project, it is essential
 
 # 2024-01-21
 - "Keep it simple, stupid!"
+
+# 2024-01-22
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ 此外，学会与他人合作和沟通也是至关重要的。编程是一个团队工作，因此，能够有效地与同事、客户和团队成员合作是成功的关键。学会倾听他人的意见，提出建设性的反馈，并尊重不同的观点是建立良好团队合作关系的基础。
+ 最后，保持耐心和毅力是编程成功的重要因素。学习新技能、解决问题和适应新技术需要时间和努力。保持积极的心态，相信自己有能力克服困难，是实现目标的关键所在。总之，今天的智慧是成为终身学习者，不断更新技能，与他人有效合作，并保持耐心。
