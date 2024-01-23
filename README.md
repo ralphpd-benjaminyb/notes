@@ -297,3 +297,8 @@ First, prioritize your tasks. When you are working on a project, it is essential
 To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
  此外，学会与他人合作和沟通也是至关重要的。编程是一个团队工作，因此，能够有效地与同事、客户和团队成员合作是成功的关键。学会倾听他人的意见，提出建设性的反馈，并尊重不同的观点是建立良好团队合作关系的基础。
  最后，保持耐心和毅力是编程成功的重要因素。学习新技能、解决问题和适应新技术需要时间和努力。保持积极的心态，相信自己有能力克服困难，是实现目标的关键所在。总之，今天的智慧是成为终身学习者，不断更新技能，与他人有效合作，并保持耐心。
+
+# 2024-01-23
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, break it down into smaller, manageable tasks and use logical thinking to identify the best solution. Practice debugging and testing your code, which will help you identify and fix errors more efficiently. Finally, never be afraid to ask for help or advice from others in the programming community. They are often more than happy to share their knowledge and experience with newcomers.
