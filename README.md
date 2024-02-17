@@ -423,3 +423,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 4. Attend conferences and workshops: Attending tech conferences, meetups, workshops,or online courses can provide valuable insights and connections with other professionals in Your field. These events can also help expose You to emerging technologies that can enhance Your skillset.   
 5. Build a portfolio: Creating a personal portfolio of Your work can demonstrate Your skill and expertise to potential employers. Showing off Your projects can not only help land a job but also provide You with a sense of pride and accomplishment.    
 6. Network with others in You field: Connecting with fellow programmers and industry professionals can lead to job opportunities, resource recommendations, mentorship, as well as new ideas and insights. Utilizing social media platforms like LinkedIn, GitHub, Slack,as wellas attending in-person events, can all help build Your network.
+
+# 2024-02-17
+- "Keep it simple, stupid!"
